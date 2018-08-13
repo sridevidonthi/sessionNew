@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: net.serenitybdd.practiseSession.StudentRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.668 sec <<< FAILURE! - in net.serenitybdd.practiseSession.StudentRunner
+Check if the student application can be accessed by users(Testing different requests on the reqres application)  Time elapsed: 2.538 sec  <<< ERROR!
+java.lang.NoSuchFieldError: SERENITY_DISABLE_REST_CALLS_AFTER_FAILURES
+

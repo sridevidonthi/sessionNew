@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login to Guru99 website and navigate to different projects","Should see information related to Insurance Project","SUCCESS","2018-07-28T14:46:06.41-04:00[America/New_York]","0.0","15.86"
+"Testing different requests on the reqres application","Check if the student application can be accessed by users","ERROR","2018-07-28T14:46:25.567-04:00[America/New_York]","0.0","2.54"
